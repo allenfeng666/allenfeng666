@@ -4,6 +4,6 @@
 - 🌱 As a software engineer, I enjoy using my obsessive attention to detail to make things that change the world. I’m addicted to learning and growing every day!
 - 📫 How to reach me: 
   - :office: [LinkedIn](https://www.linkedin.com/in/allen-feng/)
-  - :website: [Personal Website](https://allenfeng666.github.io/)
+  - :spider_web: [Personal Website](https://allenfeng666.github.io/)
 
 
